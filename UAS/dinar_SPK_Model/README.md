@@ -51,14 +51,13 @@ run this query in your db client
 ## run SAW
 
      python main.py saw
-
-https://github.com/agungperdananto/spk_model
+https://github.com/Dinarsihombing/sistem-penunjang-keputusan
 
 ## Tugas UAS 1
 isi function berikut dengan metode WP
-https://github.com/agungperdananto/spk_model/blob/78e8fea9ef5b7910ac1a3a819d7f3a2af5933043/main.py#L77-L80
+https://github.com/Dinarsihombing/sistem-penunjang-keputusan/blob/main/UAS/dinar_SPK_Model/main.py
 
 contoh(metode SAW) dapat dilihat di 
-https://github.com/agungperdananto/spk_model/blob/78e8fea9ef5b7910ac1a3a819d7f3a2af5933043/main.py#L85-L96
+https://github.com/Dinarsihombing/sistem-penunjang-keputusan/blob/main/UAS/dinar_SPK_Model/main.py
 
 lalu implementasikan di data kalian masing-masing
